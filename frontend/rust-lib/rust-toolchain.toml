@@ -1,2 +1,2 @@
 [toolchain]
-channel = "stable-2022-01-20"
+channel = "1.81.0"
